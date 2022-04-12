@@ -1,0 +1,26 @@
+input{
+    width: 26%;
+    height: 39px;
+    border: 2px solid;
+    border-radius: 3px;
+}
+button{
+    width: 48px;
+    height: 44px;
+    padding: 6.5px;
+    text-align: center;
+    padding-bottom: 39px;
+    font-weight: bold;
+    font-size: 24px;
+    border: none;
+    border-radius: 5px;
+    background: rgba(128, 128, 128, 0.395);;
+    color: black;
+    margin-left: 5px;
+
+    /* font-size: 25px; */
+    /* margin-top: 80px; */
+}
+div{
+    margin-top: 40px;
+}
