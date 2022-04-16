@@ -1,0 +1,12 @@
+button{
+    color: black;
+    /* background-color: crimson; */
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+    border: 2px solid black;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 20px;
+    margin: 5px;
+}
