@@ -1,0 +1,11 @@
+.stop-watch{
+    height: 15vh;
+    /* border: 1px solid; */
+    width: 23vw;
+    margin-bottom: 0px;
+    /* background-color: #0d0c1b; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
