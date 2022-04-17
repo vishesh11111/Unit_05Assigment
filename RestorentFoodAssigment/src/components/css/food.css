@@ -1,0 +1,112 @@
+.main{
+    width: 100%;
+    height: auto;
+    margin: 0px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 15px;
+}
+.main-1{
+    width: 100%;
+    border-radius: 2px;
+    height: 150px;
+    display: flex;
+    border: 1px solid;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+.main-2{
+    width: 40%;
+    height: 200px;
+}
+.main-2 > img{
+    width: 100%;
+    height: 70%;
+    border-radius: 15px;
+}
+.main-3{
+    width: 60%;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+.m-2 > p{
+margin-top: 0px;
+font-weight: 700;
+}
+.m-1 > h2{
+    margin-top: 0px;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+.m-1 > p{
+    margin-top: 0px;
+    margin-bottom: 5px;
+    font-size: 15px;
+    font-size: 13px;
+    color: gray;
+    font-weight: 500;
+
+}
+.m-1{
+    width: 70%;
+}
+.m-2{
+    width: 10%;
+}
+
+.m-3{
+    width: 100%;
+    border: 2px solid rgba(172, 255, 47, 0.463);
+    justify-content: space-between;
+    display: flex;
+    margin: 0px;
+}
+.m-3 > button{
+    font-size: 18px;
+    border: none;
+    background-color: rgba(172, 255, 47, 0.463);
+    padding: 5px;
+}
+p1{
+    font-size: 15px;
+    font-size: 11px;
+    color: rgb(128, 128, 128);
+    margin-bottom: 0px;
+}
+#select-1{
+    width: 190px;
+    height: 40px;
+    color: green;
+    font-weight: bold;
+    cursor: pointer;
+}
+.m-09{
+    display: flex;
+    justify-content: space-around;
+}
+.m-09 > div:nth-child(3) button{
+    width: 170px;
+    height: 40px;
+    color: green;
+    font-weight: bold;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.e12{
+    width: 180px;
+    margin: auto;
+    margin-top: 30px;
+}
+.e12 > button{
+padding: 10px;
+margin: 3px;
+color: green;
+font-weight: bold;
+}
+.p21{
+    background-color: green;
+    color: rgb(6, 6, 6);
+}
+.g12{
+    cursor: pointer;
+}

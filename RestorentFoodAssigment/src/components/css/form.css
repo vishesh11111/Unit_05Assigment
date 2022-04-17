@@ -1,0 +1,47 @@
+.main12{
+    width: 800px;
+    height: 500px;
+    position: fixed;
+    top: 7%;
+    border-radius: 3px;
+    left: 17%;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, .8);
+    z-index: 1000;
+    border: 2px solid green;
+}
+.btn-08{
+    margin: auto;
+    width: 130px;
+}
+.btn-081{
+    color: green;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 30px;
+}
+.m-091 > form{
+    padding: 4px;
+    height: auto;
+}
+.m-091 form > input{
+    font-size: 18px;
+    color: green;
+    height: 20px;
+    padding: 10px;
+    width: 43%;
+    border: 2px solid green;
+    border-radius: 3px;
+}
+.btn081{
+    margin-left: 95.5%;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px solid green;
+    font-weight: bold;
+}
