@@ -1,4 +1,4 @@
-import './App.css'
+
 import {Food} from "./components/food";
 function App() {
 
