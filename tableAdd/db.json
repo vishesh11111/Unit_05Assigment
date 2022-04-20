@@ -1,0 +1,32 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "Name": "vishesh",
+      "Age": 12,
+      "Address": "hanumb",
+      "Department": "science",
+      "Salary": 0,
+      "State": "Madhya"
+    },
+    {
+      "_id": 0.012181320967681986,
+      "Name": "naup",
+      "Age": "21",
+      "Address": "fssd",
+      "Department": "Science",
+      "Salary": "12",
+      "State": "Maharasta",
+      "id": 2
+    },
+    {
+      "Name": "nuiisd",
+      "Age": "121",
+      "Address": "sadadada",
+      "Department": "Commerse",
+      "Salary": "12",
+      "State": "Bengal",
+      "id": 3
+    }
+  ]
+}
