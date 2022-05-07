@@ -1,0 +1,81 @@
+{
+  "personal": [
+    {
+      "title": "heel",
+      "discription": "asdadasda",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "dfsfsf",
+      "discription": "sdffs",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "safsdf",
+      "discription": "safsfs",
+      "status": true,
+      "id": 10
+    },
+    {
+      "title": "helo",
+      "discription": "wqewq",
+      "status": false,
+      "id": 11
+    },
+    {
+      "title": "heelo",
+      "discription": "sdasad",
+      "status": true,
+      "id": 12
+    },
+    {
+      "title": "ASs",
+      "discription": "ASDASDA",
+      "status": false,
+      "id": 13
+    }
+  ],
+  "official": [
+    {
+      "title": "hii bhai",
+      "discription": "h BAHDAHDADADAD",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "hiii",
+      "discription": "moddlld",
+      "status": false,
+      "id": 3
+    }
+  ],
+  "others": [
+    {
+      "title": "ASss",
+      "discription": "ASDASDAzxc",
+      "status": true,
+      "id": 2
+    },
+    {
+      "title": "dsf",
+      "discription": "sdfsd",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "dsffsdf",
+      "discription": "sdfsdsdf",
+      "status": true,
+      "id": 4
+    }
+  ],
+  "login" : [
+   {
+    "name" : "Vishesh Kushwaha",
+    "Number" : 9340435924,
+    "password" : "123"
+   }
+  ]
+}

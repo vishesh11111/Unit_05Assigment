@@ -1,0 +1,90 @@
+body{
+  margin: 0px;
+}
+.main-1{
+  display: flex;
+  justify-content: space-around;
+  height: 30px;
+  width: 100%;
+  background-color: teal;
+}
+.main-3{
+  width: 50%;
+  height: auto;
+  margin: auto;
+  border: 1px solid;
+  margin-top: 10px;
+}
+.m-1{
+  width: 20%;
+  margin: auto;
+}
+.m-1 button{
+width: 130px;
+height: 40px;
+font-weight: 700;
+}
+.btn-1{
+  width: 120px;
+  cursor: pointer;
+  height: 40px;
+  border-radius: 5%;
+  margin: 10px;
+  font-weight: bold;
+}
+.mn-1{
+width: 20%;
+margin: auto;
+
+}
+.mn89{
+  display: flex;
+  width: 97%;
+  margin: auto;
+  margin-top: 30px;
+}
+.mn89 > div{
+  width: 50%;
+  height: 500px;
+  border: 1px solid;
+}
+.we-01{
+width: 97%;
+padding: 5px;
+height: 30px;
+margin: auto;
+margin-top: 8px;
+margin-bottom: 10px;
+}
+.btn-2{
+  width: 100px;
+  height: 40px;
+  font-weight: bold;
+  margin-left: 50%;
+}
+.we-03{
+width: 20px;
+height: 20px;
+padding: 10px;
+}
+.hy-1{
+  width: 100%;
+  display: flex;
+}
+.ht-1{
+  width: 60%;
+  height: 40px;
+  margin-right: 2px;
+  margin-top: 5px;
+}
+.ht-2{
+  width: 15%;
+  height: 40px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.ht-3{
+  width: 20%;
+  margin-left: 5px;
+  margin-top: 5px;
+}
