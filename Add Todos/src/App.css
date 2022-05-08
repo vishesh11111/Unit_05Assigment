@@ -1,0 +1,9 @@
+.my{
+    display: flex;
+}
+.my > button{
+    width: 90px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 20px;
+}

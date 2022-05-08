@@ -1,0 +1,29 @@
+{
+  "Todos": [
+    {
+      "id": 1,
+      "title": "add",
+      "status": false
+    },
+    {
+      "title": "heelo",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "hii",
+      "status": false,
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
